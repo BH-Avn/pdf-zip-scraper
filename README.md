@@ -1,4 +1,4 @@
-# PDF Scraper
+# PDF/Zip Scraper
 
 Scan a website for `.pdf` and `.zip` links, list what it finds, and download the ones you pick —
 either straight from the command line with flags, or through an interactive terminal loop that
